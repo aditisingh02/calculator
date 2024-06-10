@@ -1,7 +1,7 @@
 <h1 align="center"> Calculator📱</h1>
 
 <h3 align="left">🌠 Overview</h3>
-The Calculator application is a tool that can perform a variety of calculations. It has a simple and intuitive interface, making it easy for you to perform calculations quickly and efficiently. The application supports basic arithmetic operations like addition, subtraction, multiplication, and division. 
+The Calculator application is a tool that can perform a variety of calculations. It has a simple and intuitive interface, making it easy for you to perform calculations quickly and efficiently. The application supports basic arithmetic operations like addition, subtraction, multiplication, and division. <h1></h1>
 
 ![image](https://github.com/aditisingh02/calculator/assets/140513260/df67e3f2-a603-4c64-9db5-26f2903ae8d0)
 
